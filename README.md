@@ -3,6 +3,7 @@
 Aplicativo Android gamificado para ajudar calouras de Engenharia de Software a praticar lógica de programação e conhecer as contribuições de mulheres para a história da computação.
 
 **v0.1.0 · Flutter · Dart · Android**
+(https://skillicons.dev/icons?i=flutter,dart,figma)
 
 ## O que funciona nesta versão
 
