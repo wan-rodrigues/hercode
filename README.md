@@ -2,6 +2,8 @@
 
 Aplicativo Android gamificado para ajudar calouras de Engenharia de Software a praticar lógica de programação e conhecer as contribuições de mulheres para a história da computação.
 
+[📲 Baixar HerCode v0.1.0 para Android](https://github.com/wan-rodrigues/hercode/releases/download/v0.1.0/HerCode-v0.1.0.apk)
+
 **v0.1.0 · Flutter · Dart · Android**
 
 ## Tecnologias
@@ -46,4 +48,3 @@ flutter build apk --release
 
 O arquivo é gerado em `build/app/outputs/flutter-apk/app-release.apk`.
 
-[📲 Baixar HerCode v0.1.0 para Android](sha256:b1f412fbeea61ca074605a5edc45e8fcb530b013d124f35fbac684232c9693a5)
