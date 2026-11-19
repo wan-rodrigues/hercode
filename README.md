@@ -17,6 +17,14 @@ O Módulo 1 está completo. Os outros nove módulos fazem parte do conteúdo pla
 
 Transformei o protótipo do Figma em um app Flutter com componentes reutilizáveis para cards, diálogos e feedback. Usei `ChangeNotifier` para compartilhar o estado de vidas e progresso entre as telas e `shared_preferences` para persistir esses dados. Validei manualmente no emulador Android o fluxo do primeiro acesso até o desbloqueio da conquista e a revisão do módulo.
 
+## Telas do aplicativo
+
+<p align="center">
+  <img src="screenshots/home.jpeg" width="150" alt="Tela inicial com os módulos do HerCode">
+  <img src="screenshots/licao-ada.jpeg" width="150" alt="Lição guiada por Ada Lovelace">
+  <img src="screenshots/conquista.jpeg" width="150" alt="Conquista Mente de Programadora desbloqueada">
+</p>
+
 ## Como executar
 
 Com o Flutter SDK configurado e um emulador ou dispositivo Android conectado, execute na raiz do projeto:
